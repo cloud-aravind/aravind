@@ -10,7 +10,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@aravind-cloud](https://medium.com/@aravind-cloud)
 
-- 📫 How to reach me **aravindur1995@gmail.com**
+- 📫 How to reach me **cloudlearn.aravind@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
